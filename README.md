@@ -9,6 +9,6 @@ This repo outlines the objectives for the Ops 301: IT onboarding Policy and Secu
 ### Security Measures
 - Implement firewalls, antivirus solutions, and other security measures to protect the network from cyber threats.
 - [Network Security Management SOP](https://docs.google.com/document/d/1LYDU7ZyenAcrx8hT3hCbAcThnAtpjprd1tNITFmSIdw/edit?usp=sharing)
-- [Onboarding New Network Account SOP Document](https://docs.google.com/document/d/1WYyXCVyPhrdDzCl5i84eMSofvl1sZ-9r3J3miXLS6PA/edit?usp=drive_link) 
+- [Onboarding New Network Account SOP](https://docs.google.com/document/d/1WYyXCVyPhrdDzCl5i84eMSofvl1sZ-9r3J3miXLS6PA/edit?usp=drive_link) 
 ### Power Point Design
--Working Document 
+- [Powerpoint Slides](https://docs.google.com/presentation/d/1VdFY9BPJbuKKx8WOL7bA25qSUUvEDsWllXdZ9kFxL5o/edit?usp=sharing)
